@@ -27,6 +27,7 @@ Aplikasi microservices untuk manajemen ToDoList yang terdiri dari:
 ### Backend (Laravel)  
 1. Clone repo  
    "git clone https://github.com/daymouse/flutter-laravel-todolist"
+   (pastikan projek berada pada folder root web server seperti www pada laragon atau htdocs pada xampp)
    
 3. Masuk ke folder laravel
    "cd laravel_service"
